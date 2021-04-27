@@ -8,8 +8,8 @@ x + 6 x 2 - x 2 + 4 2 10 + 6 x 2 - x 2 + 4 2 10
 
 ''' + 5 6    (the ''' are to stop conversion to bullet point)
 
-6(technically not a formula but java script handles it)
+6  (technically not a formula but java script handles it)
 
-6 + (prints out ivalid)
+6 + (prints out invalid)
 
-can randomly change the numbers
+can randomly change the numbers for more examples
