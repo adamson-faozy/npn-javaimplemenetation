@@ -6,7 +6,7 @@ forgive the poor code quality, had not learned how to properly write standard ja
 
 x + 6 x 2 - x 2 + 4 2 10 + 6 x 2 - x 2 + 4 2 10
 
-+ 5 6
+''' + 5 6    (the ''' are to stop conversion to bullet point)
 
 6(technically not a formula but java script handles it)
 
